@@ -1,49 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Arthur Costa Gomes</title>
+    <title>Authors | Arthur C. Gomes</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Arthur Costa Gomes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>GA Cushen</title>
-      <link>/authors/ga-cushen/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0300</pubDate>
-      
-      <guid>/authors/ga-cushen/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
     <item>
-      <title>MS Nixon</title>
-      <link>/authors/ms-nixon/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0300</pubDate>
-      
-      <guid>/authors/ms-nixon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0300</pubDate>
-      
-      <guid>/authors/robert-ford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
+      <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 -0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description></description>
+      <description>&lt;p&gt;Angular developer interested in games, I have experience with Java, JavaScript, TypeScript, I started my studies in computer science in 2016.1 in the integrated course offered by the Federal Institute, finishing the course in the second period of 2019 with the presentation of the project &amp;ldquo;Memo.me &amp;ldquo;, which can be viewed in the project area.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;java&#34;&gt;Public Class Life{
+  public static void main(String []args){
+    while(true){
+      continue();
+    }
+  }
+}&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
   </channel>
