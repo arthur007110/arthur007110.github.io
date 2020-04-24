@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Arthur C. Gomes</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://arthur007110.gihub.io/authors/</link>
+      <atom:link href="https://arthur007110.gihub.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://arthur007110.gihub.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://arthur007110.gihub.io/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Angular developer interested in games, I have experience with Java, JavaScript, TypeScript, I started my studies in computer science in 2016.1 in the integrated course offered by the Federal Institute, finishing the course in the second period of 2019 with the presentation of the project &amp;ldquo;Memo.me &amp;ldquo;, which can be viewed in the project area.&lt;/p&gt;
+      <guid>https://arthur007110.gihub.io/author/</guid>
+      <description>&lt;p&gt;Angular developer interested in games, I have experience with Java, JavaScript, TypeScript, C# and Python. I started my studies in computer science in 2016.1 in the integrated course offered by the Federal Institute, finishing the course in the second period of 2019 with the presentation of the project &amp;ldquo;Memo.me &amp;ldquo;, which can be viewed in the project area.&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;java&#34;&gt;Public Class Life{
   public static void main(String []args){
-    while(true){
-      continue();
+    while(isAlive){
+      this.continue();
     }
   }
 }&lt;/code&gt;&lt;/pre&gt;

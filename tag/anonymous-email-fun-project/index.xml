@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anonymous Email, Fun, Project | Arthur C. Gomes</title>
+    <link>https://arthur007110.gihub.io/tag/anonymous-email-fun-project/</link>
+      <atom:link href="https://arthur007110.gihub.io/tag/anonymous-email-fun-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anonymous Email, Fun, Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jan 2020 10:45:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anonymous Email, Fun, Project</title>
+      <link>https://arthur007110.gihub.io/tag/anonymous-email-fun-project/</link>
+    </image>
+    
+    <item>
+      <title>Anonymous Email</title>
+      <link>https://arthur007110.gihub.io/project/anonymous-email/</link>
+      <pubDate>Sat, 11 Jan 2020 10:45:00 +0000</pubDate>
+      <guid>https://arthur007110.gihub.io/project/anonymous-email/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;br&gt;
+This project was developed in order to test skills in Angular technology, it is a simple system and in only one page, but it has its complexity in the server of sending emails.&lt;/p&gt;
+&lt;p&gt;It was developed in 5 days, tested and approved by users, in this system there is a main email created by the developer, which uses the data collected in the system form and an external API to send an email, so that there can be anonymity, there are also some optional tools on the website, such as the reason, which is a set of objects that encapsulate the message and are suggested by the users themselves and approved later by the developer.&lt;/p&gt;
+&lt;p&gt;Developing this project was a lot of fun and resulted in a very concrete learning, in the end it yielded in a very useful system in everyday situations.&lt;/p&gt;
+&lt;p&gt;All use of the system is the responsibility of the user and the terms of service must be accepted before using it.&lt;/p&gt;
+&lt;p&gt;Project Repository: &lt;a href=&#34;https://github.com/arthur007110/MailServer&#34;&gt;https://github.com/arthur007110/MailServer&lt;/a&gt; &lt;br&gt;
+System link: &lt;a href=&#34;https://email-anonimo.firebaseapp.com/&#34;&gt;https://email-anonimo.firebaseapp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By: Arthur C. Gomes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

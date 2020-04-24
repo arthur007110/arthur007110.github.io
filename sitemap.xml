@@ -3,66 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://arthur007110.gihub.io/project/anonymous-email/</loc>
+    <lastmod>2020-01-11T10:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arthur007110.gihub.io/tag/anonymous-email-fun-project/</loc>
+    <lastmod>2020-01-11T10:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arthur007110.gihub.io/</loc>
+    <lastmod>2020-01-11T10:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arthur007110.gihub.io/project/</loc>
+    <lastmod>2020-01-11T10:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arthur007110.gihub.io/tags/</loc>
+    <lastmod>2020-01-11T10:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arthur007110.gihub.io/project/memo.me/</loc>
     <lastmod>2019-12-11T10:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/memo.me/</loc>
+    <loc>https://arthur007110.gihub.io/tag/memo.me-end-of-course-work/</loc>
     <lastmod>2019-12-11T10:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/memo.me-end-of-course-work/</loc>
-    <lastmod>2019-12-11T10:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-12-11T10:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-12-11T10:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
+    <loc>https://arthur007110.gihub.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/terms/</loc>
+    <loc>https://arthur007110.gihub.io/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://arthur007110.gihub.io/author/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://arthur007110.gihub.io/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://arthur007110.gihub.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://arthur007110.gihub.io/post/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://arthur007110.gihub.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://arthur007110.gihub.io/publication/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://arthur007110.gihub.io/talk/</loc>
   </url>
   
 </urlset>

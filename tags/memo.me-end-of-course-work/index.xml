@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memo.me, End of Course Work | Arthur C. Gomes</title>
-    <link>/tags/memo.me-end-of-course-work/</link>
-      <atom:link href="/tags/memo.me-end-of-course-work/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://arthur007110.gihub.io/tags/memo.me-end-of-course-work/</link>
+      <atom:link href="https://arthur007110.gihub.io/tags/memo.me-end-of-course-work/index.xml" rel="self" type="application/rss+xml" />
     <description>Memo.me, End of Course Work</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 10:45:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://arthur007110.gihub.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Memo.me, End of Course Work</title>
-      <link>/tags/memo.me-end-of-course-work/</link>
+      <link>https://arthur007110.gihub.io/tags/memo.me-end-of-course-work/</link>
     </image>
     
     <item>
       <title>Memo.me</title>
-      <link>/project/memo.me/</link>
+      <link>https://arthur007110.gihub.io/project/memo.me/</link>
       <pubDate>Wed, 11 Dec 2019 10:45:00 +0000</pubDate>
-      <guid>/project/memo.me/</guid>
+      <guid>https://arthur007110.gihub.io/project/memo.me/</guid>
       <description>&lt;p&gt;&lt;br&gt;&lt;br&gt;
 The system was developed with the purpose of facilitating the sending of official documents between sectors, called memos, well as facilitating the sending and receiving of such documents. It will already make a good difference to public coffers and the environment.&lt;/p&gt;
 &lt;p&gt;The tool was developed by four students of the informatics course as their conclusion project, among the frameworks used are present: Node.js, Angular, PrimeNG, Firebase, Nodemailer, Quill, among others, the development of the tool started as a simple project of a web programming discipline but for its potential the tool went ahead, having its production beginning in mid-September 2018 and its completion in December 2019, when it was officially presented to the board of teachers who evaluated it, among the evaluators : Eduardo Wanderlley (Course Coordinator), Carlos Magno, Eugênio Saraiva.&lt;/p&gt;

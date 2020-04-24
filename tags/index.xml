@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Arthur C. Gomes</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://arthur007110.gihub.io/tags/</link>
+      <atom:link href="https://arthur007110.gihub.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 10:45:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jan 2020 10:45:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://arthur007110.gihub.io/tags/</link>
     </image>
     
     <item>
+      <title>Anonymous Email, Fun, Project</title>
+      <link>https://arthur007110.gihub.io/tag/anonymous-email-fun-project/</link>
+      <pubDate>Sat, 11 Jan 2020 10:45:00 +0000</pubDate>
+      <guid>https://arthur007110.gihub.io/tag/anonymous-email-fun-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Memo.me, End of Course Work</title>
-      <link>/tags/memo.me-end-of-course-work/</link>
+      <link>https://arthur007110.gihub.io/tag/memo.me-end-of-course-work/</link>
       <pubDate>Wed, 11 Dec 2019 10:45:00 +0000</pubDate>
-      <guid>/tags/memo.me-end-of-course-work/</guid>
+      <guid>https://arthur007110.gihub.io/tag/memo.me-end-of-course-work/</guid>
       <description></description>
     </item>
     
